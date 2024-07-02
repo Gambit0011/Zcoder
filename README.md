@@ -31,7 +31,7 @@ ZCoder is a comprehensive platform designed to facilitate collaborative learning
 ### Collaborative Learning
 
 - **Study Groups:** Users can join  study groups based on specific topics or programming languages.
-- **Learning Resources:** A collection of tutorials, articles, and videos(links) shared by the community.
+- **Learning Resources:** A collection of tutorials, articles, and videos (links) shared by the community.
 
 ### Chat
 
